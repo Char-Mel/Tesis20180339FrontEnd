@@ -1,0 +1,78 @@
+[
+  {
+    "id": "header",
+    "label": "Encabezado"
+  },
+  {
+    "id": "subheader",
+    "label": "Subencabezado"
+  },
+  {
+    "id": "separator",
+    "label": "Separador"
+  },
+  {
+    "id": "number",
+    "label": "Número"
+  },
+  {
+    "id": "decimal",
+    "label": "Decimal"
+  },
+  {
+    "id": "phone",
+    "label": "Teléfono"
+  },
+  {
+    "id": "date",
+    "label": "Fecha"
+  },
+  {
+    "id": "time",
+    "label": "Hora"
+  },
+  {
+    "id": "datetime",
+    "label": "Fecha y hora"
+  },
+  {
+    "id": "file",
+    "label": "Archivo"
+  },
+  {
+    "id": "text",
+    "label": "Texto"
+  },
+  {
+    "id": "email",
+    "label": "Correo"
+  },
+  {
+    "id": "address",
+    "label": "Dirección"
+  },
+  {
+    "id": "checkbox",
+    "label": "Selección"
+  },
+  {
+    "id": "select",
+    "label": "Lista"
+  },
+  {
+    "id": "table",
+    "label": "Matriz"
+  },
+  {
+    "id": "money",
+    "label": "Moneda"
+  },
+  {
+    "id": "computed",
+    "label": "Calculado"
+  },
+  {
+    "id": "symbol",
+    "label": "Símbolo"
+  }
+]

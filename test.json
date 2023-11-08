@@ -1,0 +1,208 @@
+[
+  {
+    "id": "1",
+    "type": "header",
+    "label": "Título",
+    "margin": "4",
+    "image": {
+      "filename": "",
+      "originalname": ""
+    }
+  },
+  {
+    "id": "2",
+    "type": "subheader",
+    "label": "Subtítulo",
+    "margin": "4",
+    "image": {
+      "filename": "",
+      "originalname": ""
+    }
+  },
+  {
+    "id": "3",
+    "type": "separator",
+    "margin": "4",
+    "image": {
+      "filename": "",
+      "originalname": ""
+    }
+  },
+  {
+    "id": "4",
+    "type": "number",
+    "label": "Ingrese un valor numérico",
+    "placeholder": "",
+    "decimals": 0,
+    "minValue": 1,
+    "maxValue": 100,
+    "step": 2,
+    "options": [],
+    "columns": [],
+    "formula": "",
+    "required": true
+  },
+  {
+    "id": "5",
+    "type": "phone",
+    "label": "Ingrese número telefónico",
+    "placeholder": "",
+    "decimals": 0,
+    "minValue": "",
+    "maxValue": "",
+    "step": 1,
+    "options": [],
+    "columns": [],
+    "formula": "",
+    "required": true
+  },
+  {
+    "id": "6",
+    "type": "date",
+    "label": "Ingrese fecha",
+    "placeholder": "",
+    "decimals": 0,
+    "minValue": "",
+    "maxValue": "",
+    "step": 1,
+    "options": [],
+    "columns": [],
+    "formula": "",
+    "required": true
+  },
+  {
+    "id": "7",
+    "type": "time",
+    "label": "Ingrese hora",
+    "placeholder": "",
+    "decimals": 0,
+    "minValue": "",
+    "maxValue": "",
+    "step": 1,
+    "options": [],
+    "columns": [],
+    "formula": "",
+    "required": true
+  },
+  {
+    "id": "8",
+    "type": "datetime",
+    "label": "Ingrese fecha y hora",
+    "placeholder": "",
+    "decimals": 0,
+    "minValue": "",
+    "maxValue": "",
+    "step": 1,
+    "options": [],
+    "columns": [],
+    "formula": "",
+    "required": true
+  },
+  {
+    "id": "9",
+    "type": "file",
+    "label": "Cargue uno o más archivos",
+    "placeholder": "",
+    "decimals": 0,
+    "minValue": "",
+    "maxValue": "",
+    "step": 1,
+    "options": [],
+    "columns": [],
+    "formula": "",
+    "required": true
+  },
+  {
+    "id": "10",
+    "type": "text",
+    "label": "Ingrese un texto",
+    "placeholder": "hola",
+    "decimals": 0,
+    "minValue": 1,
+    "maxValue": 100,
+    "step": 1,
+    "options": [],
+    "columns": [],
+    "formula": "",
+    "required": true
+  },
+  {
+    "id": "11",
+    "type": "email",
+    "label": "Ingrese un correo",
+    "placeholder": "",
+    "decimals": 0,
+    "minValue": "",
+    "maxValue": "",
+    "step": 1,
+    "options": [],
+    "columns": [],
+    "formula": "",
+    "required": true
+  },
+  {
+    "id": "12",
+    "type": "address",
+    "label": "Ingrese una dirección",
+    "placeholder": "",
+    "decimals": 0,
+    "minValue": "",
+    "maxValue": "",
+    "step": 1,
+    "options": [],
+    "columns": [],
+    "formula": "",
+    "required": true
+  },
+  {
+    "id": "13",
+    "type": "checkbox",
+    "label": "Marque la casilla",
+    "placeholder": "",
+    "decimals": 0,
+    "minValue": "",
+    "maxValue": "",
+    "step": 1,
+    "options": [],
+    "columns": [],
+    "formula": "",
+    "required": true
+  },
+  {
+    "id": "14",
+    "type": "select",
+    "label": "Seleccione su sexo",
+    "placeholder": "cabro",
+    "decimals": 0,
+    "minValue": "",
+    "maxValue": "",
+    "step": 1,
+    "options": [
+      {
+        "id": "1",
+        "label": "hetero"
+      },
+      {
+        "id": "2",
+        "label": "gay"
+      }
+    ],
+    "columns": [],
+    "formula": "",
+    "required": true
+  },
+  {
+    "id": "15",
+    "type": "money",
+    "label": "Ingrese un valor monetario",
+    "placeholder": "500",
+    "decimals": 0,
+    "minValue": "Sol",
+    "maxValue": "Dolar",
+    "step": "3.7",
+    "options": [],
+    "columns": [],
+    "formula": "",
+    "required": true
+  }
+]
